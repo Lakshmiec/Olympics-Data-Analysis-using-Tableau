@@ -8,7 +8,7 @@ The Winter Olympics, held every four years, stand as a testament to human athlet
 
 ## Dataset
 
-**Data Origin:** The dataset used in this analysis is the Winter Olympics (1924 - 2018) dataset sourced from Kaggle. [Winter Olympics Dataset]([Link](https://www.kaggle.com/datasets/leminhnguyen/winter-olympics-1924-2018?select=olympic_events.csv))
+**Data Origin:** The dataset used in this analysis is the Winter Olympics (1924 - 2018) dataset sourced from Kaggle. [Winter Olympics Dataset]([Link](https://www.kaggle.com/datasets/leminhnguyen/winter-olympics-1924-2018?select=olympic_events.csv)
 
 **Dataset Contents:** We are exploring two complementary datasets chronicling the Winter Olympics from 1924 to 2018:
 
